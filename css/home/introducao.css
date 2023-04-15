@@ -6,12 +6,7 @@
 .main-introducao {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  max-width: 1200px;
-  margin: 0 auto;
-  box-sizing: border-box;
   column-gap: 40px;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 .main-introducao img {
